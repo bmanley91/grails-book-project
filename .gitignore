@@ -31,3 +31,13 @@
 
 # "temporary" build files
 /target
+
+# IntelliJ stuff
+.idea
+.project
+*.iml
+
+# Java
+.classpath
+
+
